@@ -1,0 +1,13 @@
+"role","ses_level","Mean","SD","Median","N"
+"nonowner-buyer-broker","Low SES",227.1,152.3,180,17
+"nonowner-buyer-broker","Medium SES",322,163.2,340,20
+"nonowner-buyer-broker","High SES",238.3,192.7,190,12
+"nonowner-seller-broker","Low SES",288.8,204.9,260,16
+"nonowner-seller-broker","Medium SES",252.6,164.8,300,19
+"nonowner-seller-broker","High SES",253.3,170,220,12
+"owner-buyer-broker","Low SES",231.8,167.7,220,34
+"owner-buyer-broker","Medium SES",210.2,152.7,200,55
+"owner-buyer-broker","High SES",249.7,160.2,200,31
+"owner-seller-broker","Low SES",262.7,191.8,300,15
+"owner-seller-broker","Medium SES",363.5,149.9,400,17
+"owner-seller-broker","High SES",216.7,198.9,150,12

@@ -1,0 +1,4 @@
+"SES_Level","N_Owner","N_Nonowner","W_statistic","p_value","Significant"
+"Low SES",39,40,1006.5,0.0128,"***"
+"Medium SES",63,67,2163,0.4034,"ns"
+"High SES",36,37,812,0.0509,"*"

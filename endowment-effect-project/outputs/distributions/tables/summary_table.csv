@@ -1,0 +1,5 @@
+"Experiment","Role","N","Mean","SD","Test"
+"Exp1.1","Owner-Seller",138,274.3,186,"Kruskal-Wallis"
+"Exp1.1","Nonowner-Buyer",144,221,171.4,"Kruskal-Wallis"
+"Exp1.2","Owner-Buyer",132,177.7,158.8,"Kruskal-Wallis"
+"Exp1.2","Nonowner-Buyer",143,239.3,161.9,"Kruskal-Wallis"

@@ -1,0 +1,9 @@
+"experiment","role","mean","std. dev.","obs."
+"Exp1.1","nonowner-buyer",221,171,144
+"Exp1.1","owner-seller",274,186,138
+"Exp1.2","nonowner-buyer-package",239,162,143
+"Exp1.2","owner-buyer",178,159,132
+"Exp2","nonowner-buyer-broker",269,170,49
+"Exp2","nonowner-seller-broker",255,178,47
+"Exp2","owner-buyer-broker",226,159,120
+"Exp2","owner-seller-broker",224,184,44

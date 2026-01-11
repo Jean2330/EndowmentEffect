@@ -1,0 +1,10 @@
+"Test","Comparison","X.Median.diff..","p.value..95.."
+"Endowment Effect","V(owner-seller 1.1) > V(nonowner-buyer 1.1)",120,0.0263
+"","V(nonowner-buyer 1.1) < V(owner-buyer 2nd-unit 1.2)",80,4e-04
+"","V(owner-seller 1.1) = V(owner-buyer 2nd-unit 1.2)",160,0
+"","V(nonowner-buyer 1.1) = V(nonowner-buyer package 1.2)",40,0.195
+"Loss Aversion","V(seller brokers 2) > V(buyer brokers 2) - owners",10,0.6184
+"","V(seller brokers 2) > V(buyer brokers 2) - nonowners",20,0.7222
+"","",NA,NA
+"Ownership","V(owner-seller brokers 2) > V(nonowner-seller brokers 2)",30,0.3353
+"","V(owner-buyer brokers 2) > V(nonowner-buyer brokers 2)",0,0.1621

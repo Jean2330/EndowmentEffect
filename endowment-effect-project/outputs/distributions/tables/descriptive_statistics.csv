@@ -1,0 +1,9 @@
+"experiment","role","n","mean","sd","median","min","max"
+"Exp1.1","Nonowner-Buyer",144,221,171.4,160,20,500
+"Exp1.1","Owner-Seller",138,274.3,186,280,20,500
+"Exp1.2","Nonowner-Buyer-Pkg",143,239.3,161.9,200,20,500
+"Exp1.2","Owner-Buyer-2nd",132,177.7,158.8,120,20,500
+"Exp2","Nonowner-Buyer",49,268.6,169.8,200,20,500
+"Exp2","Nonowner-Seller",47,254.9,177.5,220,20,500
+"Exp2","Owner-Buyer",120,226.5,158.5,200,20,500
+"Exp2","Owner-Seller",44,223.6,184,190,20,500
